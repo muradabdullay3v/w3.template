@@ -308,6 +308,10 @@ body {
     width: 100%;
   }
 
+  .ticket_card img:hover{
+    opacity: 70%;
+  }
+
   .ticket_card p , h4 , button{
     margin: 15px;
   }
